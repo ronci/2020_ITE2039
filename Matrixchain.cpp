@@ -1,4 +1,4 @@
-// 2019015414_Àü¿¬Áö_12838
+// 2019015414_JeonYeonji_12838
 
 #include <stdio.h>
 #define MAX_INT 2147483647

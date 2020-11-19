@@ -1,4 +1,4 @@
-// 2019015414_Àü¿¬Áö_Algorithm
+// 2019015414_JeonYeonji_12838
 
 #include <stdio.h>
 
